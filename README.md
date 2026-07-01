@@ -181,7 +181,3 @@ Evaluation focused on
 Google Gemini 2.5 Flash
 
 ---
-
-## Author
-
-Adarsh Singh
